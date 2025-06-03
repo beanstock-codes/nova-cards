@@ -37,6 +37,10 @@
         {
             "type": "composer",
             "url": "https://laravelsatis.com"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/beanstock-codes/laravel-system-resources"
         }
     ],
     "require-dev": {
